@@ -1,0 +1,119 @@
+{
+  "project_title": "JK Eden Huts Restaurant — Private Hut Dining Landing Page",
+  "app_type": "landing_page",
+  "theme_and_atmosphere": {
+    "style": "Tropical, warm organic rustic theme with earthy elegance",
+    "atmosphere": "Intimate, welcoming, aromatic dining escape. Warm lantern illumination, natural bamboo texture, deep jungle foliage feel.",
+    "color_palette": {
+      "primary_jungle_green": "#14532D",
+      "jungle_green_light": "#166534",
+      "bamboo_timber_brown": "#854D0E",
+      "timber_brown_light": "#A16207",
+      "lantern_amber": "#D97706",
+      "amber_glow": "#F59E0B",
+      "linen_background": "#FDFBF7",
+      "card_background": "#FFFFFF",
+      "copper_accent": "#C2410C",
+      "copper_accent_hover": "#9A3412",
+      "text_main": "#1F2937",
+      "text_muted": "#4B5563",
+      "border_subtle": "#E5E7EB"
+    }
+  },
+  "typography": {
+    "fonts": {
+      "heading_font": "Playfair Display, serif (import via Google Fonts in index.html if needed, or fallback to Georgia, serif)",
+      "body_font": "Plus Jakarta Sans, sans-serif (or system-ui)"
+    },
+    "hierarchy": {
+      "h1": "text-4xl sm:text-5xl lg:text-6xl font-serif font-bold tracking-tight leading-tight",
+      "h2": "text-2xl sm:text-3xl lg:text-4xl font-serif font-bold tracking-tight",
+      "h3": "text-xl sm:text-2xl font-serif font-semibold",
+      "h4": "text-lg sm:text-xl font-sans font-semibold",
+      "body": "text-base leading-relaxed font-sans text-gray-700",
+      "small_label": "text-xs sm:text-sm font-medium uppercase tracking-widest text-amber-700"
+    }
+  },
+  "image_urls": {
+    "hero_banner": "https://images.unsplash.com/photo-1642448379920-d60e1e3544f6?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHwxfHxiYW1ib28lMjBodXR8ZW58MHx8fHwxNzk0NjQyMDE4fDA&ixlib=rb-4.1.0&q=85",
+    "hut_exterior_garden": "https://images.unsplash.com/photo-1784061032054-7e874694be09?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDQ2Mzl8MHwxfHNlYXJjaHwzfHxiYW1ib28lMjBodXR8ZW58MHx8fHwxNzk0NjQyMDE4fDA&ixlib=rb-4.1.0&q=85",
+    "arabian_mandi_special": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHwyfHxiaXJ5YW5pJTIwZGlzaHxlbnwwfHx8fDE3OTQ2NDIwMTh8MA&ixlib=rb-4.1.0&q=85",
+    "mutton_mandi_platter": "https://images.unsplash.com/photo-1716550781939-beb7d7247aae?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHw0fHxiaXJ5YW5pJTIwZGlzaHxlbnwwfHx8fDE3OTQ2NDIwMTh8MA&ixlib=rb-4.1.0&q=85",
+    "chicken_biryani": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjY2NzN8MHwxfHNlYXJjaHwxfHxiaXJ5YW5pJTIwZGlzaHxlbnwwfHx8fDE3OTQ2NDIwMTh8MA&ixlib=rb-4.1.0&q=85",
+    "tandoori_chicken_grill": "https://images.unsplash.com/photo-1617692855027-33b14f061079?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzd8MHwxfHNlYXJjaHwzfHx0YW5kb29yaSUyMGNoaWNrZW58ZW58MHx8fHwxNzk0NjQyMDE4fDA&ixlib=rb-4.1.0&q=85",
+    "alfham_grilled_chicken": "https://images.unsplash.com/photo-1652545296821-09a023a9fd08?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzd8MHwxfHNlYXJjaHw0fHx0YW5kb29yaSUyMGNoaWNrZW58ZW58MHx8fHwxNzk0NjQyMDE4fDA&ixlib=rb-4.1.0&q=85",
+    "bbq_platter": "https://images.unsplash.com/photo-1727280376746-b89107a5b0df?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzd8MHwxfHNlYXJjaHwxfHx0YW5kb29yaSUyMGNoaWNrZW58ZW58MHx8fHwxNzk0NjQyMDE4fDA&ixlib=rb-4.1.0&q=85",
+    "butter_chicken_naan": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2ODl8MHwxfHNlYXJjaHwxfHxidXR0ZXIlMjBjaGlja2VuJTIwY3VycnklMjBwYW5lZXIlMjB0aWtrYSUyMEluZGlhbiUyMGZvb2QlMjBmYWxvb2RhJTIwZGVzc2VydHxlbnwwfHx8fDE3OTQ2NDIwMTR8MA&ixlib=rb-4.1.0&q=85",
+    "paneer_tikka_masala": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2ODl8MHwxfHNlYXJjaHwyfHxidXR0ZXIlMjBjaGlja2VuJTIwY3VycnklMjBwYW5lZXIlMjB0aWtrYSUyMEluZGlhbiUyMGZvb2QlMjBmYWxvb2RhJTIwZGVzc2VydHxlbnwwfHx8fDE3OTQ2NDIwMTR8MA&ixlib=rb-4.1.0&q=85",
+    "rich_handi_curry": "https://images.unsplash.com/photo-1606471191009-63994c53433b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2ODl8MHwxfHNlYXJjaHw0fHxidXR0ZXIlMjBjaGlja2VuJTIwY3VycnklMjBwYW5lZXIlMjB0aWtrYSUyMEluZGlhbiUyMGZvb2QlMjBmYWxvb2RhJTIwZGVzc2VydHxlbnwwfHx8fDE3OTQ2NDIwMTR8MA&ixlib=rb-4.1.0&q=85",
+    "falooda_dessert": "https://images.unsplash.com/photo-1630823184409-1c6014968038?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzMjd8MHwxfHNlYXJjaHwxfHxmYWxvb2RhJTIwZHJpbmt8ZW58MHx8fHwxNzk0NjQyMDMxfDA&ixlib=rb-4.1.0&q=85"
+  },
+  "sections": [
+    {
+      "name": "Header / Navigation",
+      "description": "Sticky top navigation bar with translucent backdrop (bg-[#14532D]/95 backdrop-blur-md), logo with bamboo icon, nav links (Home, About, Private Huts, Menu, Mandi & Tandoor, Reviews, Location), Phone call action button, and Reserve Hut CTA button.",
+      "testid_prefix": "nav-"
+    },
+    {
+      "name": "Hero Section",
+      "description": "Full-width immersive section with warm lantern bamboo hut background, subtle dark gradient overlay (from-black/70 via-black/40 to-transparent), headline 'Private Hut Dining, Sizzling Tandoor & Arabian Mandi in Bellandur', CTA buttons ('Book a Hut', 'Explore Menu', 'Call Now'), and trust badges (4.0★ rated 4800+ Google reviews, Private Huts available, Open till 1:00 AM late night, Free delivery up to 3km).",
+      "testid_prefix": "hero-"
+    },
+    {
+      "name": "Stats Banner",
+      "description": "Warm bamboo brown section with key metrics: 4800+ 5-Star Reviews, 15+ Private Bamboo Huts, 50+ Arabian & Tandoori Specialties, 100% Halal Certified.",
+      "testid_prefix": "stats-"
+    },
+    {
+      "name": "Dining Experience Story",
+      "description": "2-column layout showcasing story of JK Eden Huts: intimate hut dining experience, fragrant Arabian rice spices cooked in traditional handis, flame-roasted Alfham grills, and family/couple seating privacy in Bellandur.",
+      "testid_prefix": "experience-"
+    },
+    {
+      "name": "Private Huts Showcase",
+      "description": "Grid of hut categories (Couples Private Hut, Family Hut 6-8 pax, Large Celebration Hut), with capacity tags, curtains/cooling amenities, price range guidance, and 'Book This Hut' action modal trigger.",
+      "testid_prefix": "huts-"
+    },
+    {
+      "name": "Menu Highlights Section",
+      "description": "Interactive section with tab filters (All, Arabian Mandi, Tandoor & Grills, Curries & Breads, Beverages & Desserts), Search bar, Veg/Non-Veg filter toggles, dish cards featuring images, ₹ pricing in INR, badges (Bestseller, Chef's Special, Halal Certified), portion sizes, and 'Inquire / Order' button.",
+      "testid_prefix": "menu-"
+    },
+    {
+      "name": "Customer Reviews & Wall of Love",
+      "description": "Grid/Carousel of authentic customer testimonials with star ratings, reviewer names, review date, verified customer badges, and highlighted quotes about hut atmosphere & Mandi taste.",
+      "testid_prefix": "reviews-"
+    },
+    {
+      "name": "Hut Booking & Inquiry Form",
+      "description": "Client-side interactive reservation form with fields (Full Name, Phone Number, Date, Time Slot, Party Size, Preferred Hut Type, Special Requests), real-time validation, and instant simulated confirmation modal & toast notification using Sonner.",
+      "testid_prefix": "booking-"
+    },
+    {
+      "name": "Location, Hours & Direct Contact",
+      "description": "Map & contact info section in Bellandur, Bengaluru. Highlights late night hours (12:00 PM – 1:00 AM), direct Tel link, WhatsApp chat link, Google Maps directions button, and delivery radius details.",
+      "testid_prefix": "location-"
+    },
+    {
+      "name": "Footer",
+      "description": "Rich dark jungle green footer with brand story, menu shortcuts, hut booking links, contact info, social links, and copyright text.",
+      "testid_prefix": "footer-"
+    }
+  ],
+  "component_guidelines": {
+    "icons": "Use lucide-react (Utensils, MapPin, Phone, Clock, Star, Flame, Calendar, Users, ShieldCheck, Search, ChevronRight, MessageSquare, Menu, X, Heart, Award, Wine, Sparkles)",
+    "toasts": "Use sonner for instant booking confirmation toasts and order added notifications",
+    "modals_dialogs": "Use Shadcn Dialog for Hut Booking Modal and Dish Quick View Modal",
+    "buttons": "Pill-shaped or rounded-lg with smooth hover scaling (`hover:scale-[1.02] transition-all`), copper accent (`bg-[#C2410C] hover:bg-[#9A3412] text-white`) or lantern amber (`bg-[#D97706] hover:bg-[#B45309] text-white`)",
+    "cards": "White background (`bg-white`), subtle shadow (`shadow-md hover:shadow-xl transition-shadow`), border (`border border-amber-950/10`), rounded 2xl corners"
+  },
+  "instructions_to_main_agent": [
+    "Build a responsive, highly polished single-page landing application in JS/React for JK Eden Huts Restaurant.",
+    "Implement the exact color scheme: Jungle Green (#14532D), Bamboo Timber Brown (#854D0E), Lantern Amber (#D97706), Cream Linen (#FDFBF7), Card White (#FFFFFF), and Copper Accent (#C2410C).",
+    "DO NOT use raw transparent backgrounds for sticky headers or dropdowns. Header must use solid or high-opacity backdrop-blur (`bg-[#14532D]/95 backdrop-blur-md text-white`).",
+    "Ensure every interactive element (buttons, tabs, inputs, cards, links, forms) has a distinct `data-testid` attribute using kebab-case role-based naming.",
+    "Include client-side interactive state: Menu search, Category filtering tabs, Veg/Non-Veg filter toggles, Hut Booking inquiry form submit handling with Sonner toast feedback, and quick dish detail modal view.",
+    "Include authentic INR prices (e.g. ₹420 for Chicken Mandi, ₹780 for Mutton Mandi Platter, ₹340 for Tandoori Full, ₹260 for Butter Chicken).",
+    "Make sure images from `image_urls` are correctly placed in corresponding food cards, hero background, and hut sections."
+  ]
+}
